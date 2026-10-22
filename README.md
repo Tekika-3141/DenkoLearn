@@ -19,6 +19,7 @@ LogiLearn の軽量な静的構成を参考に作成した、依存ライブラ�
 - 回答前のヒント、回答後の正誤・解説、結果一覧
 - 間違い問題と正解数、途中のセッションをブラウザー内に保存
 - 選択肢の表示順を問題ごとにランダム化
+- 計算式・数値・単位に同梱の STIX Two Math フォントを適用
 - スマートフォン対応、キーボード操作対応
 
 ## 問題と出典
@@ -26,6 +27,8 @@ LogiLearn の軽量な静的構成を参考に作成した、依存ライブラ�
 収録問題は学習用に独自作成した練習問題です。電気技術者試験センターの過去問本文は転載していません。将来、公式過去問を追加する場合は、年度・試験時期・問題番号（例：令和○年度上期 学科試験 問○）と公式掲載ページへのリンクを問題ごとに記録してください。公式の過去問題の使用条件は[試験問題と解答](https://www.shiken.or.jp/construction/second/qa/index.html)を確認してください。
 
 詳しい著作権・利用条件、免責事項、ブラウザー内の学習記録についてはサイト内の「[このサイトについて](about.html)」をご覧ください。
+
+`assets/STIXTwoMath-Regular.ttf` は STIX Two Math です。The STIX Fonts Project の Authors が提供し、SIL Open Font License Version 1.1 の下で配布されています。ライセンス全文は[公式のOFL.txt](https://github.com/stipub/stixfonts/blob/master/OFL.txt)を参照してください。
 
 ## 注意
 
